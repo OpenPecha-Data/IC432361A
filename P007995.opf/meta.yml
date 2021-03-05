@@ -1,16 +1,17 @@
-id: opecha:P007995
+id: P007995
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG1281
   title: ཆེ་ཤོས་སྐུ་ཕྲེང་གསུམ་པ་བློ་བཟང་བྱང་ཆུབ་བསྟན་པའི་སྒྲོན་མེའི་རང་རྣམ་
-  volume:
+  author: ''
+  volumes:
     c2db37a582614247ad2f766af7fe5378:
       image_group_id: I1KG1283
       title: Volume 1 of blo bzang byang chub bstan pa'i sgron me rang nyid kyi mdzad
         rnam
       volume_number: 1
       total_pages: 780
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཆེ་ཤོས་སྐུ་ཕྲེང་གསུམ་པ་བློ་བཟང་བྱང་ཆུབ་བསྟན་པའི་སྒྲོན་མེའི་རང་རྣམ་
   author: ''
