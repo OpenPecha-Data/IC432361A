@@ -5,11 +5,13 @@ source_metadata:
   title: ཆེ་ཤོས་སྐུ་ཕྲེང་གསུམ་པ་བློ་བཟང་བྱང་ཆུབ་བསྟན་པའི་སྒྲོན་མེའི་རང་རྣམ་
   author: ''
   volumes:
-    ec91d32195bb443d9d12754ec9693b76:
+    c2db37a582614247ad2f766af7fe5378:
       image_group_id: I1KG1283
-      title: ''
+      title: Volume 1 of blo bzang byang chub bstan pa'i sgron me rang nyid kyi mdzad
+        rnam
       volume_number: 1
       total_pages: 780
+      base_file: v001.txt
 ebook_metadata:
   title: ཆེ་ཤོས་སྐུ་ཕྲེང་གསུམ་པ་བློ་བཟང་བྱང་ཆུབ་བསྟན་པའི་སྒྲོན་མེའི་རང་རྣམ་
   author: ''
